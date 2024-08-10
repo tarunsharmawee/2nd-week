@@ -1,0 +1,1 @@
+()=> console.log("Promise for settimeout Resolved")
